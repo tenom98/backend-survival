@@ -1,3 +1,3 @@
 # Table of contents
 
-* [backend-survival](README.md)
+* [Git Book 가이드](README.md)
